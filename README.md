@@ -1,9 +1,3 @@
-<div align="center">
-
-<p>🚧 It is in Development 🚧</p>
-
-</div>
-
 <div>
 
   - I'm **Back End Developer** in development.
@@ -11,8 +5,9 @@
 
   Technologies:
   - Javascript, Typescript
-  - NodeJs, NestJs
-  - Git and Github, Docker, AWS etc.
+  - Node, Express
+  - React, Next
+  - Git e GitHub, Docker, AWS, etc.
 
 </div>
 </br>
