@@ -1,7 +1,6 @@
 <div>
 
   - I'm **Back End Developer** in development.
-  - Graduate in Financial Management at Fundação Santo André.
 
   Technologies:
   - Javascript, Typescript
