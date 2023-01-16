@@ -3,8 +3,8 @@
   - I'm **Back End Developer** in development.
 
   Technologies:
-  - Javascript, Typescript
-  - Node, Express
+  - Javascript, Typescript, C#
+  - Node, Express, Nest
   - React, Next
   - Git e GitHub, Docker, AWS, etc.
 
