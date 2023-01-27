@@ -5,7 +5,7 @@
   Technologies:
   - Javascript, Typescript, C#
   - Node, React, .Net Core
-  - Git e GitHub, Docker, AWS, etc.
+  - Git e GitHub, Docker, Cloud, etc.
 
 </div>
 </br>
