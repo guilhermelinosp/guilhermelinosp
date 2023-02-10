@@ -10,7 +10,7 @@ Technologies:
   
 <div>
 
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-1d1f21?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelinosp) <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&style=for-the-badge&color=1d1f21"/>
+  <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&style=for-the-badge&color=1d1f21"/>
   
 </div>
 </br>
