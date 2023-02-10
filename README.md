@@ -1,8 +1,5 @@
 <div>
-
-  - I'm **Back End Developer** in development.
-
-  Technologies:
+Technologies:
   - Javascript, Typescript, C#
   - Node, React, .Net Core
   - Git e GitHub, Containerization, Cloud, etc.
