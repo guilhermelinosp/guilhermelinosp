@@ -1,14 +1,4 @@
 <div>
-  
-Technologies:
-  - Javascript, Typescript, C#
-  - Node, React, .Net Core
-  - Git e GitHub, Containerization, Cloud, etc.
-
-</div>
-</br>
-  
-<div>
 
   <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&style=for-the-badge&color=1d1f21"/>
   
