@@ -1,8 +1,5 @@
-<div>
+404 readme not found
 
-  <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&style=for-the-badge&color=1d1f21"/>
-  
-</div>
 </br>
 
 <div align="center">
