@@ -1,7 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&style=for-the-badge&color=1d1f21"/>
 
-<div>
-
+<div align="center">
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</picture>
 </div>
 </br>
 
