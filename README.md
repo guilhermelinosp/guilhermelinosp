@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=guilhermelinosp&style=for-the-badge&color=1d1f21"/>
+<img src="https://komarev.com/ghpvc/?username=guilhermelinosx&style=for-the-badge&color=1d1f21"/>
 
 <div>
 
