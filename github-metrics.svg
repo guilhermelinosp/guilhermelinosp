@@ -46,7 +46,7 @@
   <b>   39</b> repositories starred
   <b>   27</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 37 repositories - 59 MB
+<div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 37 repositories - 59.1 MB
 -r--  <b>  152</b>  views
 -r--  <b>   82</b>  stargazers
 -r--  <b>    6</b>  forks
@@ -61,7 +61,7 @@ dr-x  <b>   26</b>  PULL_REQUESTS
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -101k +156k @@</span>
+<span class="diff">@@ -73.7k +125k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/gists</div><div class="stdout">Total 1 gist
 -r--  <b>    1</b>  stargazer
