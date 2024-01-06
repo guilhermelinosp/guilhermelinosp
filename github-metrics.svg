@@ -61,7 +61,7 @@ dr-x  <b>   28</b>  PULL_REQUESTS
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -86.1k +153k @@</span>
+<span class="diff">@@ -111k +296k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/gists</div><div class="stdout">Total 1 gist
 -r--  <b>    1</b>  stargazer
