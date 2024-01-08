@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  832</b> commits
+  <b>  824</b> commits
   <b>    1</b> pull request reviewed
   <b>   74</b> pull requests opened
   <b>   24</b> issues opened
@@ -43,38 +43,38 @@
 <b>Tracked activity</b>
   <b>    2</b> users followed
   <b>    1</b> repository sponsored
-  <b>   42</b> repositories starred
-  <b>   29</b> repositories watched
+  <b>   41</b> repositories starred
+  <b>   28</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 40 repositories - 60.6 MB
--r--  <b>  178</b>  views
--r--  <b>  119</b>  stargazers
--r--  <b>   15</b>  forks
--r--  <b>   27</b>  watchers
+<div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 39 repositories - 60.6 MB
+-r--  <b>  176</b>  views
+-r--  <b>  117</b>  stargazers
+-r--  <b>   14</b>  forks
+-r--  <b>   26</b>  watchers
 dr-x  <b>    3</b>  packages
 dr-x  <b>   28</b>  ISSUES
 -r--  <b>   23</b>  ├── open
 -r--  <b>    5</b>  └── closed
 dr-x  <b>   28</b>  PULL_REQUESTS
 -r--  <b>   42</b>  ├── open
--r--  <b>  180</b>  └── merged
+-r--  <b>  178</b>  └── merged
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -108k +300k @@</span>
+<span class="diff">@@ -108k +293k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/gists</div><div class="stdout">Total 1 gist
 -r--  <b>    1</b>  stargazer
 -r--  <b>    0</b>  forks
 </div>
-<div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C#          </b> [##############      ] 68.80%
-<b>TYPESCRIPT  </b> [######              ] 27.88%
-<b>SCSS        </b> [#                   ] 1.54 %
-<b>DOCKERFILE  </b> [#                   ] 1.15 %
-<b>HANDLEBARS  </b> [#                   ] 0.34 %
-<b>CSS         </b> [#                   ] 0.21 %
+<div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C#          </b> [##############      ] 66.53%
+<b>TYPESCRIPT  </b> [#######             ] 30.06%
+<b>SCSS        </b> [#                   ] 1.66 %
+<b>DOCKERFILE  </b> [#                   ] 1.07 %
+<b>HANDLEBARS  </b> [#                   ] 0.37 %
+<b>CSS         </b> [#                   ] 0.23 %
 <b>HTML        </b> [#                   ] 0.06 %
-<b>JAVASCRIPT  </b> [#                   ] 0.02 %
+<b>JAVASCRIPT  </b> [#                   ] 0.03 %
 </div>
 
 </pre>
