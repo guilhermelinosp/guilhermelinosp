@@ -36,8 +36,8 @@
 <pre><div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b>  828</b> commits
   <b>    1</b> pull request reviewed
-  <b>   81</b> pull requests opened
-  <b>   26</b> issues opened
+  <b>   71</b> pull requests opened
+  <b>   24</b> issues opened
   <b>    6</b> issue comments
 
 <b>Tracked activity</b>
@@ -61,7 +61,7 @@ dr-x  <b>   28</b>  PULL_REQUESTS
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -111k +311k @@</span>
+<span class="diff">@@ -113k +311k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/gists</div><div class="stdout">Total 1 gist
 -r--  <b>    1</b>  stargazer
