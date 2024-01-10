@@ -56,12 +56,12 @@ dr-x  <b>   28</b>  ISSUES
 -r--  <b>   23</b>  ├── open
 -r--  <b>    5</b>  └── closed
 dr-x  <b>   28</b>  PULL_REQUESTS
--r--  <b>   52</b>  ├── open
+-r--  <b>   55</b>  ├── open
 -r--  <b>  179</b>  └── merged
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -105k +299k @@</span>
+<span class="diff">@@ -114k +303k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">guilhermelinosp@metrics</span>:<span class="ps1-location">~</span># ls -lh github/gists</div><div class="stdout">Total 1 gist
 -r--  <b>    1</b>  stargazer
